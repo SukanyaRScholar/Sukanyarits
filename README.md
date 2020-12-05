@@ -13,7 +13,17 @@
 
 🎨 Fun fact: I do still life painting
 
-## View all my projects @ https://github.com/Sukanya-R-ITS
+
+## ➤View my projects 🗂 @ https://github.com/Sukanya-R-ITS
+
+## ➤View my Visualizations 📊 @ https://public.tableau.com/profile/sukanyarits
+
+## ➤Read my blogs 📖 @ https://medium.com/@sukanyarits
+
+## ➤Read my technical writing💻 @ https://iq.opengenus.org/author/sukanya
+
+## ➤View my MOOC Certificates 🏆 @ https://github.com/Sukanya-R-ITS/Certificates
+
 
 ![hermoine_reading](https://user-images.githubusercontent.com/54338670/92662945-932e8500-f2c5-11ea-8114-49e7392f1d75.gif)
 
