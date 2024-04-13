@@ -5,11 +5,11 @@
 </a>
 
 
- 👩‍💻Currently working on Web development projects 
+ 👩‍💻Currently working on Data Science projects 
  
 📚At present learning Exploratory Data Analysis
 
-🎯My Goal for 2020 is to learn Data Science
+🎯My Goal for 2024 is to learn Data Science
 
 🎨 Fun fact: I do still life painting
 
