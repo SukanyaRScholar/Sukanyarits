@@ -14,7 +14,7 @@
 🎨 Fun fact: I do still life painting and caricatures. 
 
 
-## ➤View my Data Science Projects 🗂 @ https://github.com/Sukanya-R-ITS](https://github.com/SukanyaRScholar/Data_Science_Projects
+## ➤View my Data Science Projects 🗂 @ [https://github.com/Sukanya-R-ITS](https://github.com/SukanyaRScholar/Data_Science_Projects](https://github.com/SukanyaRScholar/Data_Science_Projects)
 
 ## ➤View my Artwork 🎨 https://sukanyarits.wixsite.com/sukanyapaintings 
 
