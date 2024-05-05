@@ -5,16 +5,18 @@
 </a>
 
 
- 👩‍💻Currently working on Data Science projects 
+👩‍💻Currently working as Senior Software Engineer 
  
-📚At present learning Exploratory Data Analysis
+📚At present learning AI
 
-🎯My Goal for 2024 is to learn Data Science
+🎯My Goal for 2024 is to master data science
 
-🎨 Fun fact: I do still life painting
+🎨 Fun fact: I do still life painting and caricatures. 
 
 
-## ➤View my projects 🗂 @ https://github.com/Sukanya-R-ITS
+## ➤View my Data Science Projects 🗂 @ https://github.com/Sukanya-R-ITS](https://github.com/SukanyaRScholar/Data_Science_Projects
+
+## ➤View my Artwork 🎨 https://sukanyarits.wixsite.com/sukanyapaintings 
 
 ## ➤View my Visualizations 📊 @ https://public.tableau.com/profile/sukanyarits
 
